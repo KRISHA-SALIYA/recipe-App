@@ -2,15 +2,30 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Features :
+Browse Recipes: Discover a wide range of recipes from different cuisines.
 
-A few resources to get you started if this is your first Flutter project:
+Recipe Details: View detailed instructions, ingredients, and cooking steps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Favorite Recipes: Save your favorite recipes to easily find them later.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Custom Recipe Lists: Create and manage your own recipe collections.
+
+Attractive UI: Enjoy a visually appealing and intuitive user interface.
+
+
+Usage
+
+ 1. Browse Recipes: Open the app and navigate through the various categories of recipes available. Tap on a recipe to view its details.
+
+ 2. View Recipe Details: On the recipe detail screen, you can see the list of ingredients, step-by-step cooking instructions, and other relevant information.
+
+ 3. Add to Favorites: To save a recipe, tap the "Add to Favorites" button. Access your favorite recipes from the Favorites section in the app.
+
+4. Create Custom Lists: Create your own recipe lists by tapping on the "Create List" button. Add recipes to your custom lists for easy access.
+
+Screenshots: 
+
+
+
