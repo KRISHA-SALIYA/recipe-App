@@ -27,5 +27,11 @@ Usage
 
 Screenshots: 
 
+<img src= "https://github.com/KRISHA-SALIYA/recipe-App/assets/149802459/a713f207-9134-42cc-b1d5-336085319d51" width="200px">
+<img src= "https://github.com/KRISHA-SALIYA/recipe-App/assets/149802459/13b07457-5d04-4412-b5f3-b3d3c514ab42" width="200px">
+<img src= "https://github.com/KRISHA-SALIYA/recipe-App/assets/149802459/b1789e35-0ff8-42c6-be30-199a5f292dee" width="200px">
+<img src= "https://github.com/KRISHA-SALIYA/recipe-App/assets/149802459/739f48c8-cdda-4824-867e-c50ae28d9301" width="200px">
+<img src= "https://github.com/KRISHA-SALIYA/recipe-App/assets/149802459/6f932038-e503-4e6e-9087-1fc9c0e45c34" width="200px">
+
 
 
