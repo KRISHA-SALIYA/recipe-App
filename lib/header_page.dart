@@ -1,0 +1,11 @@
+export 'dart:async';
+export 'package:flutter/material.dart';
+export 'package:recipes_app/utils/routes.dart';
+export 'package:recipes_app/views/components/favorite_page.dart';
+export 'package:recipes_app/views/components/recipes_page.dart';
+export 'package:recipes_app/views/components/search.dart';
+export 'package:recipes_app/views/components/profile_page.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:recipes_app/utils/data.dart';
+export 'package:card_swiper/card_swiper.dart';
+export 'package:recipes_app/views/screens/detail_page.dart';
